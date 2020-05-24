@@ -9,7 +9,7 @@
 
 # Tailwind CSS `mix-blend-mode` utilities
 
-This is a Tailwind CSS plugin that adds utilities to set how an element's content should blend with the element underneath using the property [`mix-blend-mode`](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode): `mix-blend-mode`.
+This is a Tailwind CSS plugin that adds utilities to set how an element's content should blend with the element underneath using the property [`mix-blend-mode`](https://developer.mozilla.org/en-US/docs/Web/CSS/mix-blend-mode).
 
 Maintained by: [Joan Piedra](https://joanpiedra.com) → [@neojp](https://twitter.com/neojp)
 
