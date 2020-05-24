@@ -1,7 +1,7 @@
 {
   "name": "@neojp/tailwindcss-mix-blend-mode-utilities",
   "description": "Tailwind CSS `mix-blend-mode` utilities",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "SEE LICENSE IN LICENSE",
   "author": "Joan Piedra <joan@joanpiedra.com>",
   "main": "index.js",
@@ -21,6 +21,9 @@
     "tailwindcss-plugin",
     "tailwindcss-utilities",
     "tailwindcss-utility",
+    "tailwindcss-mix-blend-mode",
+    "tailwindcss-mix-blend-mode-utilities",
+    "tailwindcss-mix-blend-mode-utility",
     "mix-blend-mode",
     "blend",
     "color-burn",
